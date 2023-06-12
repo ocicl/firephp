@@ -1,0 +1,10 @@
+* firephp
+
+FirePHP protocol implementation in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/html/firephp.git   |
+| commit  | 9cec99a  |
+| systems | firephp |
+|---------+-------------------------------------------|
+
